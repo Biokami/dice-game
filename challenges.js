@@ -105,6 +105,8 @@ function nextPlayer() {
 
 document.querySelector('.btn-new').addEventListener('click', init);
 
+document.querySelector('.winner').style.color = 'blue';
+
 /* 
 YOUR 3 CHALLENGES
 Chang the game to follow these rules:
