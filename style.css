@@ -2,6 +2,7 @@
 *** GENERAL
 **********************************************/
 
+<<<<<<< HEAD
 .final-score {
     position: absolute;
     left: 50%;
@@ -28,6 +29,8 @@
     top: 250px;
 }
 
+=======
+>>>>>>> 88c65dbebeb62b5991168bf645747234c1cc3cf7
 * {
     margin: 0;
     padding: 0;
